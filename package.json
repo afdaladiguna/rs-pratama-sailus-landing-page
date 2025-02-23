@@ -1,0 +1,27 @@
+{
+  "name": "rs-pratama-sailus-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afdaladiguna/rs-pratama-sailus-landing-page.git"
+  },
+  "author": "afdaladiguna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afdaladiguna/rs-pratama-sailus-landing-page/issues"
+  },
+  "homepage": "https://github.com/afdaladiguna/rs-pratama-sailus-landing-page#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.21.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "helmet": "^8.0.0",
+    "method-override": "^3.0.0"
+  }
+}

@@ -1,0 +1,78 @@
+body {
+    font-family: 'Working Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+#second-navbar .dropdown-item {
+    font-size: 0.8em;
+    margin: 10px 0px;
+}
+
+#main-navbar .navbar-brand {
+    font-family: "Yeseva One", "Working Sans", serif;
+    color: #1F2B6C;
+}
+
+#main-navbar .main-navbar-title {
+    color: #1F2B6C;
+}
+
+#main-navbar .main-navbar-title-2 {
+    color: #159EEC;
+}
+
+#second-navbar {
+    background-color: #1F2B6C;
+    letter-spacing: 1px;
+}
+
+#second-navbar .nav-link {
+    color: #FCFEFE;
+}
+
+#second-navbar .nav-link:hover {
+    color: #BFD2F8 !important;
+}
+
+#second-navbar-appointment-btn {
+    background-color: #BFD2F8;
+    color: #1F2B6C;
+    border: 1px solid #BFD2F8;
+}
+
+#hero-card .card {
+    letter-spacing: 1px;
+    border: 0;
+}
+
+#hero-card .card:nth-of-type(1) {
+    background-color: #1F2B6C;
+    color: #FCFEFE;
+}
+
+#hero-card .card:nth-of-type(2) {
+    background-color: #BFD2F8;
+}
+
+#hero-card .card:nth-of-type(3) {
+    background-color: #159EEC;
+    color: #FCFEFE;
+}
+
+.title-1 {
+    color: #159EEC;
+    letter-spacing: 2px;
+}
+
+.title-2 {
+    font-family: "Yeseva One", serif;
+    color: #1F2B6C;
+}
+
+#appointment {
+    background-image: url('../imgs/appointment-img.jpg');
+    background-size: cover;
+}
